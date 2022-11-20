@@ -1,0 +1,2 @@
+This is a good example for a text file with no meaningfull text.
+But to practice the basics it's good enough :)
